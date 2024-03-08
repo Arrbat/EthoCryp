@@ -1,0 +1,116 @@
+1. PRODUCT DEFINITION
+----------------------
+Ethnocrypt is an application that allows user to encrypt and decrypt files using a graphical interface.
+The key features that need to be implemented are:
+- Simple and user-friendly GUI interface
+- Various encryption and decryption options
+- Password and key manager built into the app
+- Audit trail feature that logs all encryption and decryption activities
+The audience is everyone who needs it.
+
+It is planned to release the first working version of the project before the beginning of September 2024.
+
+
+2. SETTING GOALS
+----------------------
+Generally main goal is to create stable and working app with features above until the end of the term.
+
+
+3. ASSUMPTIONS AND CONSTRAINTS
+----------------------
+There are a number of problems that project will have to face, some of them:
+- Technical Complexity: The product may encounter technical challenges which will be difficult to solve due to limited knowledge and experience
+- User Experience and Interface Design: Designing an intuitive and user-friendly interface may pose a significant challenge
+- Security Vulnerabilities:  Any security vulnerabilities in the encryption process or storage mechanisms could compromise user data and trust
+
+
+4. SCOPE OF WORK
+----------------------
+First of all, the application must provide the ability to securely encrypt and decrypt files. Everything else is secondary.
+There are no plans to do the following (for now):
+- Similar to notes, task scheduler, etc.
+- Complex design interface. It should be simple
+- Various features not directly related to the application idea (synchronization with the cloud, text formatting, etc.)
+- Cross-platform
+
+
+5. LIST FEATURES
+----------------------
+
+1. User-Friendly Interface:
+   - Intuitive and easy-to-use graphical user interface.
+   - Clearly labeled buttons and options for encryption and decryption operations.
+
+2. Encryption:
+   - Ability to encrypt text, files, or folders using various encryption algorithms such as AES, RSA, Blowfish, etc.
+   - Option to select the encryption algorithm and key size.
+   - Support for encrypting data with a password, passphrase, or key file.
+   - Progress indicators during the encryption process.
+
+3. Decryption:
+   - Ability to decrypt previously encrypted data using the corresponding decryption algorithm and key.
+   - Support for decrypting data with a password, passphrase, or key file.
+   - Progress indicators during the decryption process.
+
+4. Algorithm Selection:
+   - Multiple encryption algorithms to choose from to meet different security needs and compatibility requirements.
+   - Information provided about the strength and suitability of each encryption algorithm.
+
+5. Key Management:
+   - Key generation functionality for creating encryption keys.
+   - Option to import/export encryption keys securely.
+   - Key storage with proper encryption and protection mechanisms.
+
+6. File Handling:
+   - Support for encrypting/decrypting individual files and entire directories.
+   - File integrity checks to ensure data integrity before and after encryption/decryption.
+
+7. Security Measures:
+   - Implementation of best security practices and standards.
+   - Use of secure random number generators for key generation and cryptographic operations.
+   - Protection against common cryptographic attacks such as brute force and known plaintext attacks.
+
+8. Error Handling:
+   - Graceful handling of errors and exceptions during encryption and decryption processes.
+   - Clear error messages and prompts for the user to take appropriate action.
+
+9. Customization Options:
+    - Settings panel to allow users to customize various aspects of the application, such as default encryption algorithm, key size, etc.
+
+10. Documentation and Help:
+    - Comprehensive user manual or help section to guide users through the encryption/decryption process and explain advanced features.
+    - Tooltips and inline help texts for explaining various options and functionalities within the application.
+
+11. Logging and Audit Trail:
+    - Logging functionality to record important events, errors, and activities within the application.
+    - Ability to review logs for troubleshooting purposes and auditing security-related activities.
+
+12. Integration and Compatibility:
+    - Integration with other applications or services through APIs or command-line interfaces.
+    - Compatibility with popular encryption standards and protocols.
+
+13. Performance Optimization:
+    - Efficient algorithms and data structures to optimize encryption and decryption performance.
+    - Support for parallel processing and hardware acceleration where applicable.
+
+14. Feedback Mechanism:
+    - Built-in feedback mechanism for users to report bugs, suggest improvements, or request new features.
+    - Regular updates and bug fixes based on user feedback and software testing.
+
+6. RELEASE CRITERIA
+----------------------
+The successful release of Ethnocrypt hinges on achieving the following criteria:
+
+-Functional Stability: The application must exhibit robust functionality and stability, with encryption and decryption processes performing reliably across various file types and sizes.
+-Intuitive User Experience: Ethnocrypt should deliver an intuitive and user-friendly experience, with clear navigation, informative feedback, and minimal learning curve for users of all levels.
+-Secure Password and Key Management: The password and key management system must effectively encrypt and protect sensitive information, preventing unauthorized access and data breaches.
+-Comprehensive Audit Trail Implementation: The audit trail feature should accurately capture and log all encryption and decryption activities, providing users with a transparent overview of file access and security-related events.
+-Thorough Documentation and Support: Ethnocrypt will provide comprehensive documentation and support resources to guide users through installation, setup, and usage. This includes user manuals, FAQs, and online support channels.
+-Feedback Collection and Iterative Improvement: Upon release, Ethnocrypt will actively solicit user feedback and suggestions for improvement, facilitating iterative updates and enhancements to meet evolving user needs and expectations.
+-Adherence to Security Standards: Ethnocrypt will adhere to industry best practices and security standards to mitigate risks associated with data security and privacy, ensuring compliance with relevant regulations and guidelines.
+
+
+
+
+
+Author: Artur (@Arrbat)          Last update: 03.03.2024

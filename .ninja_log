@@ -1,0 +1,25 @@
+# ninja log v5
+4	25	1709902676664962204	EthoCryp_autogen/mocs_compilation.cpp	1959c70693357c73
+0	5	0	CMakeFiles/clean.additional	1f810e9c8cec5b28
+20	2563	1709902092793240143	CMakeFiles/EthoCryp.dir/main.cpp.o	9ffc8cafe957af5
+4	25	1709902676664962204	/home/arthur/Documents/EthoCryp/EthoCryp/EthoCryp_autogen/mocs_compilation.cpp	1959c70693357c73
+1	237	1709902972968109468	build.ninja	c2eae76b09209c
+23	1924	1709653375830164442	CMakeFiles/EthoCryp.dir/files/cpp/statusbar.cpp.o	8007929341fbbc78
+291	3699	1709484356402560198	CMakeFiles/EthoCryp.dir/files/cpp/menubar.cpp.o	3c338e4f6db1822e
+4	25	1709902676664962204	/home/arthur/Documents/EthoCryp/EthoCryp/EthoCryp_autogen/timestamp	1959c70693357c73
+510	6207	1709901883614252082	CMakeFiles/EthoCryp.dir/EthoCryp_autogen/mocs_compilation.cpp.o	20192aae9198617
+3571	4266	1709902680901013766	EthoCryp	f11a76e5c0f6e947
+5	10	0	clean	2215b92efcd86e88
+27	3571	1709902680209005360	CMakeFiles/EthoCryp.dir/files/cpp/fileslayout.cpp.o	2ddbce2ae69a12da
+27	3452	1709902680093003952	CMakeFiles/EthoCryp.dir/mainwindow.cpp.o	74331fa79cf44b0b
+4	25	1709902676664962204	EthoCryp_autogen/timestamp	1959c70693357c73
+2	452	1709903057532901154	EthoCryp_autogen/timestamp	1959c70693357c73
+2	452	1709903057532901154	EthoCryp_autogen/mocs_compilation.cpp	1959c70693357c73
+2	452	1709903057532901154	/home/arthur/Documents/EthoCryp/EthoCryp/EthoCryp_autogen/timestamp	1959c70693357c73
+2	452	1709903057532901154	/home/arthur/Documents/EthoCryp/EthoCryp/EthoCryp_autogen/mocs_compilation.cpp	1959c70693357c73
+453	5579	1709903062660948288	CMakeFiles/EthoCryp.dir/files/cpp/fileslayout.cpp.o	2ddbce2ae69a12da
+452	6044	1709903063124952548	CMakeFiles/EthoCryp.dir/mainwindow.cpp.o	74331fa79cf44b0b
+453	6165	1709903063248953686	CMakeFiles/EthoCryp.dir/files/cpp/filessettingslayout.cpp.o	d455185e6f624dd0
+452	6345	1709903063428955339	CMakeFiles/EthoCryp.dir/EthoCryp_autogen/mocs_compilation.cpp.o	20192aae9198617
+452	6719	1709903063800958754	CMakeFiles/EthoCryp.dir/main.cpp.o	9ffc8cafe957af5
+6719	7468	1709903064544965582	EthoCryp	d5f9fe68c6dfe593
